@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author ThinkPad
+ *
+ */
+module moupro {
+	requires org.seleniumhq.selenium.api;
+}

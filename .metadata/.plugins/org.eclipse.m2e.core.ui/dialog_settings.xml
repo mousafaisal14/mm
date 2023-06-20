@@ -2,6 +2,13 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="bt"/>
+			<item value="mah"/>
+			<item value="Test"/>
+			<item value="Keys"/>
+			<item value="basecs"/>
+			<item value="Booking"/>
+			<item value="Automation-master"/>
 			<item value="Automation"/>
 			<item value="moupro"/>
 			<item value="mousaauto"/>
@@ -10,6 +17,13 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="bt"/>
+			<item value="mah"/>
+			<item value="Test"/>
+			<item value="Keys"/>
+			<item value="basecs"/>
+			<item value="Booking"/>
+			<item value="Automation-master"/>
 			<item value="Automation"/>
 			<item value="moupro"/>
 			<item value="mousaauto"/>

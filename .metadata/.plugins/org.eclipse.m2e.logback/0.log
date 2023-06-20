@@ -2283,3 +2283,515 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.po
 2023-06-12 13:00:00,298 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
 2023-06-12 13:00:00,299 [Worker-233: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-06-12 13:00:00,300 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-12 14:59:50,334 [Worker-251: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\basecs\pom.xml.
+2023-06-12 14:59:50,503 [Worker-251: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-12 14:59:50,505 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\basecs\src\main\resources
+2023-06-12 14:59:50,507 [Worker-251: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-12 14:59:50,508 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\basecs\src\test\resources
+2023-06-12 15:01:51,393 [Worker-251: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: aoc-web-automation:aoc:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\basecs\pom.xml.
+2023-06-12 15:01:51,498 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-12 15:01:51,498 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\basecs\src\main\resources
+2023-06-12 15:01:51,499 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-12 15:01:51,499 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\basecs\src\test\resources
+2023-06-12 15:01:51,727 [Worker-258: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-12 15:01:51,767 [Worker-258: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: aoc-web-automation:aoc:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\basecs\pom.xml.
+2023-06-12 15:01:51,899 [Worker-258: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /basecs/src/main/java because it overlaps with /basecs/src
+2023-06-12 15:01:51,900 [Worker-258: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /basecs/src/test/java because it overlaps with /basecs/src
+2023-06-12 15:01:52,019 [Worker-258: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-06-12 15:01:52,158 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-12 15:01:52,158 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\basecs\src\main\resources
+2023-06-12 15:01:52,160 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-12 15:01:52,160 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\basecs\src\test\resources
+2023-06-15 17:06:28,373 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-15 17:11:42,004 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Keys:Keys:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\Keys\pom.xml.
+2023-06-15 17:11:43,322 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:11:43,323 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:11:43,326 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:11:43,327 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:11:43,458 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Keys/src
+2023-06-15 17:11:43,460 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Keys/src/test/java because it overlaps with /Keys/src
+2023-06-15 17:11:43,516 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-15 17:11:43,705 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Keys:Keys:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\Keys\pom.xml.
+2023-06-15 17:11:43,848 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Keys/src
+2023-06-15 17:11:43,850 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Keys/src/test/java because it overlaps with /Keys/src
+2023-06-15 17:11:43,890 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-06-15 17:11:44,008 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:11:44,009 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:11:44,012 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:11:44,013 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:13:12,865 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Keys:Keys:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\Keys\pom.xml.
+2023-06-15 17:13:13,115 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:13:13,116 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:13:13,118 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:13:13,119 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:14:07,330 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:14:07,332 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-15 17:14:07,335 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:14:07,336 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-15 17:14:31,453 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:14:31,454 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-15 17:14:31,456 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:14:31,457 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-15 17:14:47,808 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:14:47,808 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:14:47,812 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:14:47,813 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:16:48,785 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:16:48,786 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:16:48,788 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:16:48,789 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:16:56,509 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:16:56,509 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:16:56,513 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:16:56,515 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:22:47,633 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:22:47,634 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:22:47,638 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:22:47,639 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:26:19,022 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:26:19,023 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:26:19,025 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:26:19,026 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:27:32,491 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:27:32,492 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:27:32,494 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:27:32,494 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:28:09,223 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Keys:Keys:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\Keys\pom.xml.
+2023-06-15 17:28:09,321 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/moupro: moupro:moupro:0.0.1-SNAPSHOT with classifier  to /moupro/target/classes
+2023-06-15 17:28:09,394 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:28:09,395 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\main\resources
+2023-06-15 17:28:09,396 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:28:09,397 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Keys\src\test\resources
+2023-06-15 17:30:10,438 [Worker-23: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\Test\pom.xml.
+2023-06-15 17:30:10,670 [Worker-23: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Test/src
+2023-06-15 17:30:10,675 [Worker-23: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Test/src/test/java because it overlaps with /Test/src
+2023-06-15 17:30:10,677 [Worker-23: Enabling Maven Dependency Management] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-19', falling back to workspace default
+2023-06-15 17:30:10,716 [Worker-23: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-15 17:30:10,942 [Worker-23: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:Test:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\Test\pom.xml.
+2023-06-15 17:30:10,986 [Worker-23: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Test/src
+2023-06-15 17:30:10,989 [Worker-23: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Test/src/test/java because it overlaps with /Test/src
+2023-06-15 17:30:10,989 [Worker-23: Enabling Maven Dependency Management] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-19', falling back to workspace default
+2023-06-15 17:30:11,025 [Worker-23: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-06-15 17:30:11,160 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:30:11,161 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Test\src\main\resources
+2023-06-15 17:30:11,163 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:30:11,164 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\Test\src\test\resources
+2023-06-15 17:31:21,753 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\moupro2\pom.xml.
+2023-06-15 17:31:21,912 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:31:21,914 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro2\src\main\resources
+2023-06-15 17:31:21,916 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:31:21,917 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro2\src\test\resources
+2023-06-15 17:44:04,671 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:44:04,672 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-15 17:44:04,674 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:44:04,675 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-15 17:51:51,622 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:51:51,623 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-15 17:51:51,625 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-15 17:51:51,626 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 09:39:01,210 [Worker-48: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 09:39:01,214 [Worker-48: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 09:39:01,215 [Worker-48: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 09:39:01,216 [Worker-48: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 09:43:18,300 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 09:43:18,303 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 09:43:18,319 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 09:43:18,320 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 09:47:33,290 [Worker-56: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 09:47:33,292 [Worker-56: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 09:47:33,296 [Worker-56: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 09:47:33,297 [Worker-56: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 09:48:53,990 [Worker-59: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 09:48:53,991 [Worker-59: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 09:48:53,993 [Worker-59: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 09:48:53,994 [Worker-59: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:13:15,498 [Worker-62: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:13:15,500 [Worker-62: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:13:15,504 [Worker-62: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:13:15,505 [Worker-62: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:14:12,956 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:14:12,957 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:14:12,959 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:14:12,960 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:14:48,909 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:14:48,910 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:14:48,912 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:14:48,913 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:18:52,248 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:18:52,249 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:18:52,251 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:18:52,253 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:24:38,146 [Worker-71: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:24:38,148 [Worker-71: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:24:38,151 [Worker-71: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:24:38,154 [Worker-71: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:25:05,787 [Worker-69: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:25:05,788 [Worker-69: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:25:05,789 [Worker-69: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:25:05,791 [Worker-69: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:28:16,792 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:28:16,793 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:28:16,795 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:28:16,796 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:29:42,807 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:29:42,807 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:29:42,810 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:29:42,810 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:36:01,275 [Worker-77: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:36:01,276 [Worker-77: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:36:01,279 [Worker-77: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:36:01,280 [Worker-77: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 10:48:34,513 [Worker-83: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mah:mah:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\mah\pom.xml.
+2023-06-18 10:48:35,176 [Worker-83: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mah/src
+2023-06-18 10:48:35,177 [Worker-83: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /mah/src/test/java because it overlaps with /mah/src
+2023-06-18 10:48:35,222 [Worker-83: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-18 10:48:35,366 [Worker-83: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mah:mah:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\mah\pom.xml.
+2023-06-18 10:48:35,409 [Worker-83: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mah/src
+2023-06-18 10:48:35,410 [Worker-83: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /mah/src/test/java because it overlaps with /mah/src
+2023-06-18 10:48:35,427 [Worker-83: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-06-18 10:48:35,589 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:48:35,590 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 10:48:35,591 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:48:35,592 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 10:49:13,917 [Worker-81: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mah:mah:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\mah\pom.xml.
+2023-06-18 10:49:13,932 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:49:13,933 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 10:49:13,935 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:49:13,935 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 10:49:38,500 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\mah\pom.xml.
+2023-06-18 10:49:38,587 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:49:38,588 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 10:49:38,589 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:49:38,590 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 10:50:26,500 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:50:26,501 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 10:50:26,504 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:50:26,506 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 10:50:54,380 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:50:54,383 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 10:50:54,385 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:50:54,386 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 10:52:42,637 [Worker-81: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:52:42,639 [Worker-81: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 10:52:42,642 [Worker-81: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:52:42,644 [Worker-81: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 10:53:16,353 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:53:16,354 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-18 10:53:16,355 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 10:53:16,356 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-18 11:01:16,056 [Worker-81: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\mah\pom.xml.
+2023-06-18 11:01:16,398 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:01:16,399 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:01:16,401 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:01:16,402 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:01:18,091 [Worker-89: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.8.0/testng-7.8.0-sources.jar
+2023-06-18 11:01:18,581 [Worker-89: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.8.0/testng-7.8.0-sources.jar
+2023-06-18 11:01:18,586 [Worker-89: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.8.0
+2023-06-18 11:04:01,988 [Worker-91: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:04:01,990 [Worker-91: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:04:01,992 [Worker-91: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:04:01,994 [Worker-91: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:11:51,882 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:11:51,883 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:11:51,885 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:11:51,887 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:13:37,313 [Worker-93: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:13:37,314 [Worker-93: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:13:37,316 [Worker-93: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:13:37,317 [Worker-93: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:15:46,914 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:15:46,915 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:15:46,918 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:15:46,918 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:21:37,920 [Worker-100: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:21:37,920 [Worker-100: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:21:37,923 [Worker-100: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:21:37,924 [Worker-100: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:22:14,644 [Worker-100: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:22:14,646 [Worker-100: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:22:14,648 [Worker-100: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:22:14,648 [Worker-100: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:33:39,584 [Worker-105: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\mah\pom.xml.
+2023-06-18 11:33:39,763 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:33:39,764 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:33:39,766 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:33:39,767 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:49:49,443 [Worker-105: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:49:49,444 [Worker-105: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:49:49,446 [Worker-105: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:49:49,447 [Worker-105: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:51:00,588 [Worker-108: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:51:00,590 [Worker-108: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:51:00,593 [Worker-108: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:51:00,595 [Worker-108: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:51:27,699 [Worker-107: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:51:27,700 [Worker-107: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:51:27,702 [Worker-107: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:51:27,703 [Worker-107: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 11:51:50,787 [Worker-105: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:51:50,789 [Worker-105: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 11:51:50,793 [Worker-105: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 11:51:50,794 [Worker-105: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 15:28:53,449 [Worker-127: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 15:28:53,451 [Worker-127: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 15:28:53,454 [Worker-127: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 15:28:53,455 [Worker-127: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 15:49:40,582 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 15:49:40,584 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 15:49:40,586 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 15:49:40,586 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 16:24:53,074 [Worker-139: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 16:24:53,075 [Worker-139: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 16:24:53,077 [Worker-139: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 16:24:53,077 [Worker-139: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-18 16:45:29,722 [Worker-141: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 16:45:29,723 [Worker-141: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-18 16:45:29,726 [Worker-141: Launching B_b] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-18 16:45:29,727 [Worker-141: Launching B_b] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-19 10:09:16,046 [Worker-150: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bt:bt:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 10:09:18,051 [Worker-150: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bt/src
+2023-06-19 10:09:18,052 [Worker-150: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /bt/src/test/java because it overlaps with /bt/src
+2023-06-19 10:09:18,103 [Worker-150: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 10:09:18,132 [Worker-150: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bt:bt:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 10:09:18,205 [Worker-150: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bt/src
+2023-06-19 10:09:18,206 [Worker-150: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /bt/src/test/java because it overlaps with /bt/src
+2023-06-19 10:09:18,231 [Worker-150: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-06-19 10:09:18,339 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:09:18,340 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:09:18,343 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:09:18,344 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:09:32,698 [Worker-141: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 10:09:34,855 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:09:34,856 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:09:34,857 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:09:34,857 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:09:46,971 [Worker-147: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:09:46,972 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:09:46,973 [Worker-147: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:09:46,974 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:10:05,337 [Worker-147: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:10:05,338 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:10:05,339 [Worker-147: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:10:05,340 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:11:17,551 [Worker-149: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:11:17,552 [Worker-149: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:11:17,554 [Worker-149: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:11:17,555 [Worker-149: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:12:26,168 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:12:26,169 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:12:26,170 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:12:26,171 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:14:56,911 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:14:56,912 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:14:56,913 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:14:56,919 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:25:25,321 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-19 10:25:32,222 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:25:32,223 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:25:32,228 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:25:32,229 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:25:33,211 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:25:33,212 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\main\resources
+2023-06-19 10:25:33,217 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:25:33,218 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\mah\src\test\resources
+2023-06-19 10:25:35,539 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:25:35,541 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\main\resources
+2023-06-19 10:25:35,545 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:25:35,547 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\moupro\src\test\resources
+2023-06-19 10:37:41,367 [Worker-25: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:37:41,370 [Worker-25: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:37:41,373 [Worker-25: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:37:41,375 [Worker-25: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:42:28,019 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 10:42:30,167 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 10:42:30,370 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\mah\pom.xml.
+2023-06-19 10:42:30,414 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\moupro\pom.xml.
+2023-06-19 10:42:30,850 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bt/src
+2023-06-19 10:42:30,858 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /bt/src/test/java because it overlaps with /bt/src
+2023-06-19 10:42:31,011 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-06-19 10:42:31,151 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:42:31,152 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 10:42:31,155 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 10:42:31,156 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 10:42:46,937 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-19 11:23:34,102 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:23:34,105 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:23:34,109 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:23:34,114 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:25:03,737 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:25:03,739 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:25:03,741 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:25:03,754 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:26:27,880 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:26:27,882 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:26:27,885 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:26:27,894 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:27:24,218 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:27:24,219 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:27:24,220 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:27:24,221 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:37:30,985 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 11:37:31,807 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.13.0/commons-io-2.13.0.pom
+2023-06-19 11:37:32,002 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.13.0/commons-io-2.13.0.pom
+2023-06-19 11:37:32,125 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/29/apache-29.pom
+2023-06-19 11:37:32,273 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/29/apache-29.pom
+2023-06-19 11:37:32,383 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.3/junit-bom-5.9.3.pom
+2023-06-19 11:37:32,515 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.3/junit-bom-5.9.3.pom
+2023-06-19 11:37:32,634 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.13.0/commons-io-2.13.0.jar
+2023-06-19 11:37:33,823 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.13.0/commons-io-2.13.0.jar
+2023-06-19 11:37:34,000 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:37:34,001 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:37:34,004 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:37:34,004 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:37:35,594 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.13.0/commons-io-2.13.0-sources.jar
+2023-06-19 11:37:36,253 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.13.0/commons-io-2.13.0-sources.jar
+2023-06-19 11:37:36,259 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.13.0
+2023-06-19 11:44:13,580 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:44:13,582 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:44:13,584 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:44:13,584 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:47:36,390 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 11:47:36,647 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:47:36,648 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:47:36,650 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:47:36,651 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:48:00,493 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-19 11:48:00,656 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 11:48:00,934 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bt/src
+2023-06-19 11:48:00,935 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /bt/src/test/java because it overlaps with /bt/src
+2023-06-19 11:48:01,071 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-06-19 11:48:01,278 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:48:01,279 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:48:01,281 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:48:01,282 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:48:26,685 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:48:26,685 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 11:48:26,687 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 11:48:26,688 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 11:48:54,847 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-19 14:34:40,647 [Worker-5: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 14:34:40,722 [Worker-5: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 14:34:40,725 [Worker-5: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 14:34:40,726 [Worker-5: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 14:39:20,639 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 14:39:21,008 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier  to /Automation-master/target/classes
+2023-06-19 14:39:21,282 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 14:39:21,283 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 14:39:21,286 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 14:39:21,286 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 14:39:27,221 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: moupro:moupro:0.0.1-SNAPSHOT @ C:\Users\ThinkPad\eclipse-workspace\bt\pom.xml.
+2023-06-19 14:39:27,357 [Worker-27: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier  to /Automation-master/target/classes
+2023-06-19 14:39:27,570 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 14:39:27,572 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 14:39:27,575 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 14:39:27,576 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 16:12:35,477 [Worker-30: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 16:12:35,479 [Worker-30: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-19 16:12:35,481 [Worker-30: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-19 16:12:35,483 [Worker-30: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-19 16:12:35,571 [Worker-30: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-19 16:12:35,623 [Worker-30: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-19 16:12:35,674 [Worker-30: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-19 16:12:54,498 [Worker-33: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-19 16:12:54,545 [Worker-33: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-19 16:12:54,592 [Worker-33: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-19 17:14:16,781 [Worker-39: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-19 17:14:16,834 [Worker-39: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-19 17:14:16,890 [Worker-39: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:47:00,021 [Worker-43: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:47:00,025 [Worker-43: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 15:47:00,029 [Worker-43: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:47:00,030 [Worker-43: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 15:47:00,131 [Worker-43: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:47:00,212 [Worker-43: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:47:00,285 [Worker-43: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:47:20,414 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:47:20,415 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 15:47:20,417 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:47:20,418 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 15:48:04,420 [Worker-43: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:48:04,473 [Worker-43: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:48:04,527 [Worker-43: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:52:44,636 [Worker-46: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:52:44,637 [Worker-46: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 15:52:44,639 [Worker-46: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:52:44,640 [Worker-46: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 15:52:44,755 [Worker-46: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:52:44,817 [Worker-46: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:52:44,869 [Worker-46: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:53:15,498 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:53:15,500 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 15:53:15,502 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:53:15,503 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 15:53:15,612 [Worker-45: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:53:15,660 [Worker-45: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:53:15,706 [Worker-45: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:56:33,432 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:56:33,433 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 15:56:33,435 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 15:56:33,436 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 15:56:33,527 [Worker-49: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:56:33,580 [Worker-49: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 15:56:33,636 [Worker-49: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:11:07,944 [Worker-53: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:11:07,946 [Worker-53: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 16:11:07,947 [Worker-53: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:11:07,947 [Worker-53: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 16:11:08,033 [Worker-53: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:11:08,086 [Worker-53: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:11:08,139 [Worker-53: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:17:30,267 [Worker-54: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:17:30,268 [Worker-54: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 16:17:30,273 [Worker-54: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:17:30,274 [Worker-54: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 16:17:30,359 [Worker-54: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:17:30,412 [Worker-54: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:17:30,461 [Worker-54: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:36:24,864 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:36:24,865 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 16:36:24,867 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:36:24,868 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 16:36:24,947 [Worker-65: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:36:25,000 [Worker-65: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:36:25,049 [Worker-65: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:38:09,045 [Worker-65: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:38:09,047 [Worker-65: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 16:38:09,048 [Worker-65: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:38:09,050 [Worker-65: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 16:38:09,134 [Worker-65: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:38:09,180 [Worker-65: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:38:09,226 [Worker-65: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:54:39,744 [Worker-69: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:54:39,746 [Worker-69: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 16:54:39,748 [Worker-69: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:54:39,755 [Worker-69: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 16:54:39,831 [Worker-69: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:54:39,877 [Worker-69: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:54:39,925 [Worker-69: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:57:05,564 [Worker-73: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:57:05,565 [Worker-73: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 16:57:05,567 [Worker-73: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 16:57:05,568 [Worker-73: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 16:57:05,632 [Worker-73: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:57:05,679 [Worker-73: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 16:57:05,725 [Worker-73: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 17:00:23,860 [Worker-72: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 17:00:23,860 [Worker-72: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 17:00:23,863 [Worker-72: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 17:00:23,864 [Worker-72: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 17:00:23,927 [Worker-72: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 17:00:23,985 [Worker-72: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 17:00:24,046 [Worker-72: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 17:00:45,514 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 17:00:45,515 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 17:00:45,517 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 17:00:45,519 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 17:00:45,609 [Worker-73: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 17:00:45,659 [Worker-73: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 17:00:45,707 [Worker-73: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 17:13:29,446 [Worker-73: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 17:13:29,448 [Worker-73: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\main\resources
+2023-06-20 17:13:29,452 [Worker-73: Launching Fox] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 17:13:29,454 [Worker-73: Launching Fox] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ThinkPad\eclipse-workspace\bt\src\test\resources
+2023-06-20 17:13:29,524 [Worker-73: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
+2023-06-20 17:13:29,577 [Worker-73: Launching Fox] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Automation-master: Automation-master:Automation-master:0.0.1-SNAPSHOT with classifier null to /Automation-master/target/classes
